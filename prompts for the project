@@ -1,0 +1,11 @@
+I've included my comments into the code but to make the code  more descriptive and understandable, could you enchance the inline comments based on already added comments? especially for AES encryption implementation and Argon2 hashing configuration choices.
+
+Im having trouble implementing the AES encryption for private keys. Can you explain how to properly encrypt and decrypt RSA private keys using AES 256 in Python
+
+show me how to create a basic rate limiter for a FastAPI application?
+
+what if I need to limit requests to 10 per second.
+
+how to properly log authentication requests to SQLite. What's the best way
+
+Based on the attached readme file tell me how can I make it more advanced. Include the formatting like ## and bullet points.
