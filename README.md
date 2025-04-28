@@ -17,17 +17,6 @@ A secure JWKS (JSON Web Key Set) server implementation with advanced security fe
 - **Authentication Request Logging** with IP tracking
 - **Rate Limiting** to prevent abuse (10 requests/second)
 
-## Requirements
-
-- Python 3.8+
-- FastAPI
-- Cryptography
-- Python-Jose
-- Argon2-cffi
-- Pydantic
-- SQLite3 (included in Python standard library)
-- Uvicorn (for running the server)
-
 ## Installation
 
 1. Clone the repository:
